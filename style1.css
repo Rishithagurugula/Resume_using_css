@@ -10,7 +10,6 @@ box-sizing: booder-box;
 body {
 border:groove 5px seagreen;
 background-color:white;
-display: flex-box;
 justify-content: center;
 align-items:center;
 min-height:100vh;
