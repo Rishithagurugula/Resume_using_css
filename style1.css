@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Mr+Dafoe&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@900&display=swap');
+
+* {
+padding: 0px;
+margin: 30px;
+box-sizing: booder-box;
+}
+
+body {
+border:groove 5px seagreen;
+background-color:white;
+display: flex-box;
+justify-content: center;
+align-items:center;
+min-height:100vh;
+display:grid;
+grid-template-columns: 1fr 2fr; 
+border-top-left-radius: 37px 140px;
+border-top-right-radius: 23px 130px;
+border-bottom-left-radius: 110px 19px;
+border-bottom-right-radius: 120px 24px;
+transform: rotate(-1deg);
+box-shadow: 3px 15px 8px -10px rgba(0, 0, 0, 0.3);
+transition: all 0.15s ease-in;
+background:url(https://media.istockphoto.com/photos/abstract-blured-dandelion-flower-in-trendy-neo-mint-color-picture-id1174075966?k=20&m=1174075966&s=612x612&w=0&h=icRYzQvMoTO06uYRmErKAcEEn0VqzHkfWtP0bN26SDE=) no-repeat;
+background-size:cover;
+}
+
+ 
+ h1 { 
+  margin: 0;
+  font-size: 3.4em;
+  letter-spacing: 0.3cm;
+  margin-top: -0.6em;
+  color:white;
+  text-shadow: 0 0 0.05em #fff, 0 0 0.2em #FD771E, 0 0 0.3em #FD771E;
+  transform: rotate(+2deg);
+  }
+  h4 {
+  color:white;
+  text-shadow: 0 0 0.05em #fff, 0 0 0.2em  #FD771E, 0 0 0.3em #FD771E;
+  transform: rotate(+2deg);
+  }
+  div
+{
+  position: realtive;
+  
+   padding:30px;
+  }
+  img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+  border: 1px solid #2ED13A ;
+  padding: 5px;
+  width: 300px;
+  }
+  h2 {
+  margin: 0;
+  font-size: 3.4em;
+  letter-spacing: 0.3cm;
+  margin-top: -0.6em;
+  color: white;
+  text-shadow: 0 0 0.05em #fff, 0 0 0.2em  #4FE33E, 0 0 0.3em #4FE33E;
+  transform: rotate(-2deg);
+  
+}
+  
+ ul 
+ {
+ color:#000;
+    padding-top: 0cm;
+    padding-left: 1cm;
+    letter-spacing: 0cm;
+    text-align:start;
+    font-size: 20px;
+    font-weight:500px;
+	padding-bottom:0.2cm;
+}
+ ul li
+ {
+  position:relative;
+ list-style:disc; 
+ margin:10px 0;
+ cursor:pointer;
+ padding-bottom: 0.01cm;
+ }
+ div 
+ { 
+ position: realtive;
+ }
+ 
+ 
+ p
+{
+    color:#000;
+    padding-top: 0.5cm;
+    letter-spacing: 0cm;
+    text-align: justify;
+    font-size: 20px;
+    word-spacing: 0cm;
+	padding-bottom:0.5cm;
+	
+} 
+h5 
+{
+color:#000;
+    padding-top: 0.5cm;
+    font-style: bold;
+    letter-spacing: 0cm;
+    text-align:justify;
+    font-size: 20px;
+	font-style: bold; 
+	}
+	
